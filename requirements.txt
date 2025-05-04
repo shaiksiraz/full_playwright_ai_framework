@@ -1,0 +1,13 @@
+pytest
+playwright
+pytest-playwright
+pytest-html
+allure-pytest
+opencv-python
+pytesseract
+pandas
+scikit-learn
+transformers
+torch
+sentence-transformers
+requests
